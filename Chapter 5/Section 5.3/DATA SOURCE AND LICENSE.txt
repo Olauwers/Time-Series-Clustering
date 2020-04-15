@@ -1,0 +1,4 @@
+The data presented here comes from the Hack The Wind competition by EDF: https://opendata.edp.com/pages/hackthewind .
+It was published under a CC BY-SA 4.0 license ( https://creativecommons.org/licenses/by-sa/4.0/ ), allowing for sharing and adapting the data.
+
+
